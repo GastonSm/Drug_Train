@@ -1,0 +1,1 @@
+An experiment to add drug-related entities to a spacy spanish model to automatically detect suspicious data.
