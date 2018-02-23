@@ -1,0 +1,43 @@
+				------RESULTADOS OBTENIDOS POR EL RECONOCIMIENTO DE ENTIDADES--------
+
+
+
+
+Palabras referente a drogas encontradas: 
+	leña, ensalada, deshuesar.
+
+Personas encontradas: 
+	Robert Bayarres, Raúl, Wilson, Ariel Martínez.
+
+Locaciones encontradas: 
+	Minas, Guinness, Argentina, Uruguay, Consuelo Urruela.
+
+Organizaciones encontradas: 
+	AFP, Récord, del Río.
+
+Misceláneos encontrados (Establecimientos, productos, nacionalidades): 
+	uruguaya, Récord Guinness, argentinos, parque Rodó, White Bird, cuaderno, montaña.
+
+Palabras no reconocidas o mal escritas: 
+	escribana.
+
+Emojis posiblemente referenciado a droga: 
+	
+
+
+
+
+
+LEÑA visible en: 
+
+	﻿La ciudad uruguaya de Minas (sur) amaneció el domingo con olor a brasas. En unas parrillas gigantes, más de un centenar de cocineros asaron por horas 16.510 kilos de carne sobre 60.000 kilos de leña, con lo que registraron un Récord Guinness.
+
+
+ENSALADA visible en: 
+
+	"Llevamos trabajando en esto desde octubre", explicó a la AFP Robert Bayarres, el capataz general. "Y tenemos 4.000 kilos de ensalada rusa. Si lo llego a saber nos presentábamos al Guinness de la rusa también, pero no nos dio tiempo", añade con buen humor.
+
+
+DESHUESAR visible en: 
+
+	En el parque Rodó de esta ciudad de 40.000 habitantes, casi dos centenares de personas trabajaron toda la noche para deshuesar, pesar y colocar en las parrillas piezas y cortes de más de cien vacas. El sábado cuando cayó el sol pesaron la carne cruda, empezaron a encender la leña y a medianoche pusieron toda la carne en el asador.

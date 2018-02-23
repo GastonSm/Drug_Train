@@ -1,0 +1,3 @@
+Por el momento Spacy 2.0 no soporta el entrenamiento del part of speach sobre un modelo ya pre-entrenado, por lo tanto habria que generar un modelo de estos en español desde 0. 
+
+Se sabe que Spacy está trabajando en la posibilidad de lo anteriormente dicho, por lo tanto se esta esperando esto para poder implementar el entrenamiento del pos.  

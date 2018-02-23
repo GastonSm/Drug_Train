@@ -1,0 +1,108 @@
+				------RESULTADOS OBTENIDOS POR EL RECONOCIMIENTO DE ENTIDADES--------
+
+
+
+
+Palabras referente a drogas encontradas: 
+	narco, limón, droga, drogas, mango, mariguana, mina, sopa Maruchan, hierro.
+
+Personas encontradas: 
+	Lázaro Cárdenas, José Manuel Mireles, Aquila, Felipe, Chinicuila, Ariel, Apatzingán, Rosales, María Luisa.
+
+Locaciones encontradas: 
+	Michoacán, Aquila, Chinicuila, Coalcomán y Aguililla, Tierra Caliente, Los Caballeros Templarios, Rubén, Gobierno Federal, centro del país, Apatzingán, Nueva Italia, Huacana, Ejército, La Huacana, México.
+
+Organizaciones encontradas: 
+	Los Caballeros Templarios en, Gobierno Federal, Los Templarios, Los Caballeros Templarios, Fuerzas Federales, Fuerza Rural Estatal, Fuerzas Armadas, Llegaba ‘La leva’.
+
+Misceláneos encontrados (Establecimientos, productos, nacionalidades): 
+	Federación, mina, plaza, empresa, zona de, Templarios-.
+
+Palabras no reconocidas o mal escritas: 
+	Ocasionalmente, Templario, Ario, halconcito.
+
+Emojis posiblemente referenciado a droga: 
+	
+
+
+
+
+
+NARCO visible en: 
+
+	Aunque ni la Federación ni el gobierno estatal reconocen a ese sector y no hay cifras en ninguna dependencia los “esclavos del narco” son los que más muertos han aportado a la ola de violencia que no cesa en el estado.
+
+
+LIMÓN visible en: 
+
+	Algunos estaban encargados de cortar limón, excavar una mina, empaquetar droga o vigilar una plaza para avisar de la presencia de las Fuerzas Federales. Todos formaban un verdadero ejército de secuestrados.
+
+
+DROGA visible en: 
+
+	Algunos estaban encargados de cortar limón, excavar una mina, empaquetar droga o vigilar una plaza para avisar de la presencia de las Fuerzas Federales. Todos formaban un verdadero ejército de secuestrados.
+
+
+DROGAS visible en: 
+
+	No les pagaban. Eran mano de obra que elevaba la utilidad del trasiego de las drogas. Para los secuestrados la ganancia diaria era llegar vivos a la noche para poder revivir su drama al día siguiente.
+
+
+DROGAS visible en: 
+
+	Hoy, la mayoría de los que fueron sometidos laboralmente por el cártel de las drogas han salido de la zona de Tierra Caliente. Son desplazados. A donde sea es mejor que permanecer en el corazón del conflicto que aún no acaba de enfriarse.
+
+
+LIMÓN visible en: 
+
+	A las mujeres, por lo general se les asignaban labores en las actividades agrícolas, en los huertos de limón, mango o aguacate. A los niños los empleaban como vigilantes en caminos y carreteras estatales, para alertar de la presencia de las Fuerzas Armadas.
+
+
+MANGO visible en: 
+
+	A las mujeres, por lo general se les asignaban labores en las actividades agrícolas, en los huertos de limón, mango o aguacate. A los niños los empleaban como vigilantes en caminos y carreteras estatales, para alertar de la presencia de las Fuerzas Armadas.
+
+
+MARIGUANA visible en: 
+
+	Los hombres eran destinados a trabajos más duros: empaquetar mariguana o excavar minas. A ninguno les pagaban sueldo. Ocasionalmente les daban 50 pesos por día para comer. Ninguno de los reclutados protesta.
+
+
+MINA visible en: 
+
+	Rubén era tratado como animal: no lo dejaban ir a su casa. A veces, lo amarraban de un pie para que no huyera. Su familia lo visitaba en la mina. Hasta allí le llevaban sus captores algo de comer. “A veces me daban una sopa Maruchan. Mi familia era la que me llevaba alimentos más seguido”, recuerda.
+
+
+SOPA MARUCHAN visible en: 
+
+	Rubén era tratado como animal: no lo dejaban ir a su casa. A veces, lo amarraban de un pie para que no huyera. Su familia lo visitaba en la mina. Hasta allí le llevaban sus captores algo de comer. “A veces me daban una sopa Maruchan. Mi familia era la que me llevaba alimentos más seguido”, recuerda.
+
+
+HIERRO visible en: 
+
+	Los Templarios operaban cerca de 70 minas ilegales en la zona de Aquila. Los yacimientos, principalmente de hierro, eran explotados a base de esclavos reclutados por la fuerza.
+
+
+MINA visible en: 
+
+	Apenas se alzaron los grupos de autodefensas, Felipe –junto con otros que trabajaban igual que él en la mina de arena y grava- trató de sumarse al movimiento contra Los Templarios. Estuvo solamente unos días en las barricadas, porque después lo acusaron de ser infiltrado y le dieron la opción de irse.
+
+
+NARCO visible en: 
+
+	Durante dos años, Ariel fue obligado a trabajar para el narco. Tenía apenas 11 años de edad cuando uno de los jefes de plaza en Apatzingán mató a balazos a su padre. A él le perdonaron la vida porque nada tenía que ver en el pleito.
+
+
+LIMÓN visible en: 
+
+	Muchos de los huertos de limón, mango y aguacate que se extiende por toda la zona de Tierra Caliente -los que fueron despojados a sus propietarios y trabajados por el cártel de Los Templarios- se convirtieron en verdaderos campos de concentración.
+
+
+MANGO visible en: 
+
+	Muchos de los huertos de limón, mango y aguacate que se extiende por toda la zona de Tierra Caliente -los que fueron despojados a sus propietarios y trabajados por el cártel de Los Templarios- se convirtieron en verdaderos campos de concentración.
+
+
+LIMÓN visible en: 
+
+	María Luisa, igual que decenas de mujeres, fue esclava en el corte de limón. Cuando los hombres armados que llegaron a su casa supieron que era madre sola, le dieron a elegir: se iba con ellos o se llevaban al hijo de 17 años que estaba por concluir la preparatoria.

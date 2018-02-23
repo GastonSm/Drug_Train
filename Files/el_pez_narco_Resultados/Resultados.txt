@@ -1,0 +1,93 @@
+				------RESULTADOS OBTENIDOS POR EL RECONOCIMIENTO DE ENTIDADES--------
+
+
+
+
+Palabras referente a drogas encontradas: 
+	cocaína, droga, sopa, manjar, sal, narcotráfico, medicina, vejigas, sustancias ilegales, almeja.
+
+Personas encontradas: 
+	Miguel Rivas, Rivas, Profepa.
+
+Locaciones encontradas: 
+	Mar de Cortés, China, Asia, México, Hong Kong, Rivas, Ejército, Santa Clara, San Felipe, Golfo de California, mar, Océanos de Greenpeace.
+
+Organizaciones encontradas: 
+	medicina tradicional de ese país, Procuraduría General de la República (PGR), Instituto Nacional para la Conservación (IUCN, IMCO, PGR, Océanos de la asociación ambientalista Greenpeace, Greenpeace, Armada, Instituto Mexicano para la Competitividad (IMCO), Fiscalía General, Código Penal Federal.
+
+Misceláneos encontrados (Establecimientos, productos, nacionalidades): 
+	Mar de Cortés, Instituto, IV.
+
+Palabras no reconocidas o mal escritas: 
+	vejigas.
+
+Emojis posiblemente referenciado a droga: 
+	
+
+
+
+
+
+COCAÍNA visible en: 
+
+	﻿En el Mar de Cortés hay un pez que en el mercado negro es más caro que la cocaína y el castigo por traficarlo es mucho menor que una acusación por portación de droga o delincuencia organizada.
+
+
+DROGA visible en: 
+
+	﻿En el Mar de Cortés hay un pez que en el mercado negro es más caro que la cocaína y el castigo por traficarlo es mucho menor que una acusación por portación de droga o delincuencia organizada.
+
+
+SOPA visible en: 
+
+	Los chinos fabrican una sopa o caldo con la vejiga natatoria, que es la parte del pez que les ayuda a subir y bajar y mantener el equilibrio adentro del agua. Este guiso es considerado un manjar y estos pedazos de vejigas natatorias llegan a costar en el mercado negro más de 60 mil dólares el kilo (un millón 132 mil pesos).
+
+
+MANJAR visible en: 
+
+	Los chinos fabrican una sopa o caldo con la vejiga natatoria, que es la parte del pez que les ayuda a subir y bajar y mantener el equilibrio adentro del agua. Este guiso es considerado un manjar y estos pedazos de vejigas natatorias llegan a costar en el mercado negro más de 60 mil dólares el kilo (un millón 132 mil pesos).
+
+
+SAL visible en: 
+
+	El resto del pescado los traficantes no lo utilizan ni para hacer ceviche. Lo tiran en la costa y las vejigas natatorias pasan por un proceso de secado a base de sal que las mantiene en buen estado, durante años incluso, y son traficadas por las redes de contrabando hacia Asia. Esta carne se ofrece en restaurantes exclusivos a precios exorbitantes y en mercados chinos que la consiguen de manera ilegal.
+
+
+NARCOTRÁFICO visible en: 
+
+	Estudios como “La pesca ilegal en México: Una barrera a la competitividad” publicado por el IMCO y otros análisis oficiales afirman que en la pesca ilegal está la mano del narcotráfico.
+
+
+SOPA visible en: 
+
+	“No sólo se trata del asunto de la sopa y la medicina, sino se ve como un asunto de inversión a largo plazo”, afirma Miguel Rivas, coordinador de la campaña de Océanos de la asociación ambientalista Greenpeace.
+
+
+MEDICINA visible en: 
+
+	“Para los chinos esta vejiga tiene un valor muy importante en la medicina tradicional, ellos le atribuyen un poder afrodisíaco y otras propiedades medicinales”, explica el experto.
+
+
+VEJIGAS visible en: 
+
+	“Nosotros hemos visto decomisos que suelen pasar de 600 vejigas, lo cual implica que, si el pez en general pesa alrededor de 50 kilos, lo que podría ser sólo en cuanto a vejigas. Es una cantidad de biomasa de pez que se está perdiendo enorme”, añade Rivas.
+
+
+NARCOTRÁFICO visible en: 
+
+	Estos informes indican que la pesca ilegal de totoaba y otras especies está muy vinculada con el narcotráfico.
+
+
+SUSTANCIAS ILEGALES visible en: 
+
+	“Muchas veces esto tiene que ver con redes que vienen manejadas por el crimen organizado y que están viendo en la totoaba una manera de obtener riquezas tan grandes como tiene que ver el tráfico de sustancias ilegales, pero en realidad los castigos no son tan grandes, no son tan severos.
+
+
+NARCOTRÁFICO visible en: 
+
+	La falta de solidez del Estado de derecho en México provoca que el narcotráfico se meta en el negocio de la pesca, asegura un informe del Instituto Mexicano para la Competitividad (IMCO).
+
+
+ALMEJA visible en: 
+
+	“(En la pesca ilegal) pescadores al margen de la ley se organizan, por ejemplo, para entrar a áreas protegidas o a polígonos asignados a otros, para robar especies valiosas como la almeja generosa o el pepino de mar.
